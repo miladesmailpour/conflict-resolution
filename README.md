@@ -26,8 +26,8 @@ just clone it
 
 [google](https://www.google.com/)
 
-```md!
-[alt text](assets/images/s.png)
+```
+node index.js
 ```
 
 ## Credits
