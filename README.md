@@ -39,8 +39,9 @@ No
 MIT
 
 ---
-## Badges
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+  ## Badges
+
+  ![MIT License](https://img.shields.io/static/v1?label=[MIT License]&message=100%&color=green)
 ## Tests
 unit test
 
