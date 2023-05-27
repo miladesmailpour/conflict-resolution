@@ -2,45 +2,44 @@
 
 ## Description
 
-    - being active
+- being active
 
-    - to learn the skills
+- to learn the skills
 
-    - automate readme generating
+- automate readme generating
 
-    - many things
+- many things
 
-    ## Table of Contents
-    - [Installation](#installation)
+## Table of Contents
+- [Installation](#installation)
 
-    - [Usage](#usage)
+- [Usage](#usage)
 
-    - [Credits](#credits)
+- [Credits](#credits)
 
-    - [License](#license)
+- [License](#license)
 
-    ## Installation
+## Installation
 
-    just clone it
+just clone it
+## Usage
 
-    ## Usage
+[google](https://www.google.com/)
 
-    https://www.google.com/
+```md![alt text](assets/images/s.png)```
 
-    ```md![alt text](assets/images/s.png)```
+## Credits
 
-    ## Credits
+No
 
-    No
+## License
 
-    ## License
+MIT
 
-    MIT
-
-    ---
-    ## Badges
-    ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-    ## Tests
-    unit test
+---
+## Badges
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+## Tests
+unit test
 
     
