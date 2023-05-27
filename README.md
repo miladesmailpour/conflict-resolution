@@ -26,7 +26,9 @@ just clone it
 
 [google](https://www.google.com/)
 
-```md![alt text](assets/images/s.png)```
+```md!
+[alt text](assets/images/s.png)
+```
 
 ## Credits
 
